@@ -1,52 +1,21 @@
-# Hi there 👋, I'm Hardik Nagpal  
+# 💫 About Me:
+🔭 I’m currently working on AI-powered projects & full-stack web applications<br>🌱 I’m currently learning Advanced ML, AWS Cloud, and System Design<br>👯 I’m looking to collaborate on AI, Web3, and impactful real-world projects<br>🤔 I’m looking for help with scaling ML models & production deployment<br>💬 Ask me about Python, ML, Web Dev, and project building<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I build tech that solves real-life problems (like assistive tools 👀)
 
-🚀 Passionate Developer | AI & ML Enthusiast | Building Real-World Projects  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hardik-nagpal-2003d11/) 
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **AI-powered projects & Full-Stack Web Apps**
-- 🌱 I’m currently learning **Advanced Machine Learning, AWS Cloud & System Design**
-- 👯 I’m looking to collaborate on **AI, Web3, and impactful real-world applications**
-- 🤔 I’m looking for help with **Scaling ML models & deploying production-ready systems**
-- 💬 Ask me about **Python, Machine Learning, Web Development, and Projects**
-- 📫 How to reach me: **your-email@example.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I’m building projects that can actually change lives (like assistive tech for the blind 👀)**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hardikn1112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hardikn1112&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hardikn1112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🛠️ Tech Stack
-- 💻 Languages: Python, JavaScript, C++
-- 📊 Libraries: Pandas, NumPy, TensorFlow
-- 🌐 Web: React, Next.js, Node.js
-- ☁️ Cloud: AWS (Learning)
-- 🧠 AI/ML: NLP, Computer Vision, YOLO
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hardikn1112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=hardikn1112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects
-- 🦯 **Smart Blind Assist Stick** – Real-time object detection using YOLOv8  
-- 🤖 **Medical Report Analyzer** – Extracts & summarizes patient health using AI  
-- 🌐 **Home Automation Website** – Full-stack responsive Next.js project  
-- 📈 **Customer Churn Predictor** – ML model for business insights  
-
----
-
-## 📊 GitHub Stats
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikn1112&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=hardikn1112&theme=radical)
-
----
-
-## 🌐 Connect With Me
-- LinkedIn: https://linkedin.com/in/hardik-nagpal-2003d11/  
-- GitHub: https://github.com/hardikn1112  
-
----
-
-⭐ *"Building impactful tech, one project at a time."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
